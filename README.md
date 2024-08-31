@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @D-H-R-U-V-A-L
-- 👀 I’m interested in Ethical Hacking, Cyber security, Front-end Development, Back-end Development, Networking
+- 👀 I’m interested in Ethical Hacking, Cyber security, Front-end Development, Back-end Development, Networking, Machine Learning, Deep Learning, Reinforcement Learning
 - 🌱 I’m currently learning Computer Engineering
 - 💞️ I’m looking to collaborate on Any project
 - 📫 How to reach me Checkout my profile it contains Instagram Account
